@@ -68,4 +68,13 @@ body{
     background: white; 
     
 }
-    
+ 
+@media (max-width:412px) {
+    #box {
+        color: rgb(255 255 255);
+        position: absolute;
+        top: 35%;
+        left: 22%;
+        width: 62%;
+    }
+}
