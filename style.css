@@ -69,12 +69,12 @@ body{
     
 }
  
-@media (max-width:412px) {
+@media (max-width:450px) {
     #box {
         color: rgb(255 255 255);
         position: absolute;
         top: 35%;
-        left: 22%;
-        width: 62%;
+        left: 15%;
+        width: 65%;
     }
 }
